@@ -1,0 +1,9 @@
+{
+  "Salesforce Apps": {
+    "testLevel": "NoTestRun",
+    "username": "abdulbaasit@haztech.in",
+    "apps": [
+      "force-app"
+    ]
+  }
+}
